@@ -41,7 +41,7 @@ Welcome to the **Foundations of Computer Science & Software Engineering** reposi
 ### 🏁 Day 7: Capstone Projects
 - 🖨️ **Custom `printf` Implementation**
 - 🐚 **Building a Basic Shell**
-- **Objective**: Create your own version of `printf` and build a simple command-line shell.
+- **Objective**: Create my own version of `printf` and build a simple command-line shell.
 
 ---
 
