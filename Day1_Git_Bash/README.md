@@ -5,7 +5,7 @@ This folder contains Bash scripts created during the first day of learning Git a
 
 ## Scripts
 
-### my_first_script.sh
+### hello_world.sh
 A simple script that prints "Hello, World!" to the console.
 
 ### functions.sh
