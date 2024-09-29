@@ -14,7 +14,7 @@ Welcome to the **Foundations of Computer Science & Software Engineering** reposi
 ### 🏗️ Day 2: Advanced Bash & C Basics
 - 🔄 **Advanced Bash Scripting**
 - 💻 **Introduction to C Programming**
-- **Objective**: Learn `makefiles` and write your first C program.
+- **Objective**: Learn `makefiles` and write my first C program.
 
 ### 🧠 Day 3: Pointers, Memory Management, and Recursion (C)
 - 🔗 **Pointers in C**
