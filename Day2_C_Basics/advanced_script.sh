@@ -5,7 +5,7 @@ greet() {
     echo "Hello, $1!"
 }
 
-# Ask for user input
+# Ask for user input.
 read -p "Enter your name: " name
 greet "$name"
 
